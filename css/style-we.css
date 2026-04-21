@@ -1,5 +1,5 @@
 .hero-section{
-background: url('hero.jpg') center/cover no-repeat; 
+background: url('/photos/service1.png') center/cover no-repeat; 
 height: 70vh; 
 filter: brightness(0.);
 top: 0; 
@@ -14,8 +14,4 @@ align-items: center;
 .hero-text{
 font-weight: bold;
 font-size: 3.5rem;
-}
-
-.navbar{
-
 }
