@@ -18,6 +18,7 @@
   background: url('/photos/service2.png') center/cover no-repeat;
   filter: blur(2px); 
   z-index: -1; 
+   border-top: 1px solid #30465c;
 }
 
 .hero-text{
